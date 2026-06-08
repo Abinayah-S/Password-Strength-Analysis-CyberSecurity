@@ -387,5 +387,3 @@ Password strength alone is insufficient for security. Users must implement multi
 4. Documented character composition and vulnerabilities
 5. Cross-referenced with attack vector resistance
 6. Compiled comparative analysis and best practices
-
-All passwords tested are hypothetical examples for educational purposes and were never used on actual systems.
