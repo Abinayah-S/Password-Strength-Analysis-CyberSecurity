@@ -92,13 +92,9 @@ If random passwords cannot be memorized:
 
 ## Repository Structure
 
-```
-Task-6-Password-Strength/
-├── README.md                          # This file
-├── PASSWORD_STRENGTH_ANALYSIS.md     # Detailed analysis report
-├── password_test_results.txt         # Raw passwordmeter.com results
-└── research_notes.md                 # Research on password attacks
-```
+- README.md                          # This file
+- Password_Strength_Analysis.md     # Detailed analysis report
+- Test_Analysis.md         # Raw passwordmeter.com results
 
 ## Tools Used
 
@@ -132,17 +128,6 @@ Task-6-Password-Strength/
 4. **Attack Awareness:** Understanding attack vectors informs stronger password creation
 5. **Layered Security:** Password strength alone is insufficient; MFA is mandatory
 
-## Conclusions
-
-Strong passwords require:
-- Minimum 16 characters (25+ for critical accounts)
-- Complete randomness or unrelated word combinations
-- Multiple character types distributed throughout
-- No personal information or dictionary words
-- Support from multi-factor authentication
-
-The most practical approach is using a password manager to generate and store 20-25 character random passwords, enabling strong security without memorization burden.
-
 ## Learning Outcomes
 
 Through this task, understanding was developed regarding:
@@ -153,23 +138,13 @@ Through this task, understanding was developed regarding:
 - Practical security implementation strategies
 - Balance between security and usability
 
-## References
+## Conclusions
 
-- NIST SP 800-63B: Digital Identity Guidelines - Authentication and Lifecycle Management
-- OWASP Password Guidelines
-- passwordmeter.com password strength analysis tool
-- Common attack methodology research
+Strong passwords require:
+- Minimum 16 characters (25+ for critical accounts)
+- Complete randomness or unrelated word combinations
+- Multiple character types distributed throughout
+- No personal information or dictionary words
+- Support from multi-factor authentication
 
-## Author
-
-Abinayah-s  
-Cybersecurity Internship Program  
-Task 6 Submission
-
-## Date Completed
-
-June 2026
-
-## Submission Status
-
-Completed for review. Analysis is comprehensive and covers all required aspects of password strength evaluation, attack vectors, and best practices for strong password creation.
+The most practical approach is using a password manager to generate and store 20-25 character random passwords, enabling strong security without memorization burden.
